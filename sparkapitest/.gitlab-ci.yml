@@ -1,0 +1,10 @@
+image: maven:3.5.0-jdk-8-alpine
+
+stages:
+  - build
+
+java:
+  stage: build
+  tags:
+    - docker
+  script: mvn -B clean install
