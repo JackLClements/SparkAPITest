@@ -1,4 +1,4 @@
-package models;
+package com.jc.shopping.models;
 
 /**
  * Object representing an item in a cart, includes the no. of items in the purchase

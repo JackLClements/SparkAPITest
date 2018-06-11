@@ -1,14 +1,14 @@
 /*
  */
-package integration;
+package com.jc.shopping.integration;
 
 import com.google.gson.Gson;
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
-import cart.ApplicationMain;
-import models.CartItem;
-import models.Cart;
+import com.jc.shopping.cart.ApplicationMain;
+import com.jc.shopping.models.CartItem;
+import com.jc.shopping.models.Cart;
 import cucumber.api.java8.En;
 import java.util.logging.Level;
 import java.util.logging.Logger;

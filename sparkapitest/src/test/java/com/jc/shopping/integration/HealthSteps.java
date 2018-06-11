@@ -1,9 +1,9 @@
-package integration;
+package com.jc.shopping.integration;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
-import cart.ApplicationMain;
+import com.jc.shopping.cart.ApplicationMain;
 import cucumber.api.java8.En;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,4 +1,4 @@
-package models;
+package com.jc.shopping.models;
 
 import java.util.ArrayList;
 

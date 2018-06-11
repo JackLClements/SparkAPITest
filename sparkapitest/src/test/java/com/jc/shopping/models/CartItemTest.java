@@ -1,8 +1,8 @@
 /*
  */
-package models;
+package com.jc.shopping.models;
 
-import models.CartItem;
+import com.jc.shopping.models.CartItem;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

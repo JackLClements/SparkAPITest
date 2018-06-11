@@ -1,9 +1,9 @@
-package cart;
+package com.jc.shopping.cart;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
-import models.CartItem;
-import models.Cart;
+import com.jc.shopping.models.CartItem;
+import com.jc.shopping.models.Cart;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import spark.Request;

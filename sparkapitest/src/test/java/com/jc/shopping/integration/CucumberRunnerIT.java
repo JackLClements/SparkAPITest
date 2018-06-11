@@ -1,4 +1,4 @@
-package integration;
+package com.jc.shopping.integration;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;

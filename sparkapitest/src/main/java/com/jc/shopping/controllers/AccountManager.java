@@ -1,12 +1,12 @@
 /*
  */
-package controllers;
+package com.jc.shopping.controllers;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import models.Cart;
+import com.jc.shopping.models.Cart;
 
 /**
  *

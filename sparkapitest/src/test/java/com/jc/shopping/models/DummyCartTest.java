@@ -1,14 +1,14 @@
-package models;
+package com.jc.shopping.models;
 
-import models.Cart;
-import models.CartItem;
+import com.jc.shopping.models.Cart;
+import com.jc.shopping.models.CartItem;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * Unit tests for the Cart class
- * @author Jack L. Clements & MOO
+ * @author Jack L. Clements
  */
 class DummyCartTest {
     

@@ -7,7 +7,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.moo" level="debug"/>
+    <logger name="com.jc.shopping" level="debug"/>
 
     <root level="info">
         <appender-ref ref="STDOUT"/>
